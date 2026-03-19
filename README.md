@@ -18,7 +18,6 @@ This project starts from a classification baseline and extends it into a practic
 - ResNet18 baseline validation accuracy: **96.67%**
 - EfficientNet-B0 validation accuracy: **100.00%**
 
-![EfficientNet-B0 Confusion Matrix](outputs/figures/confusion_matrix_efficientnet_b0.png)
 
 Industrial surface defect inspection is an important task in quality control for manufacturing and steel processing.  
 This project focuses on classifying common steel surface defects from images and generating structured inspection outputs for practical use.
