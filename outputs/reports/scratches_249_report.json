@@ -1,0 +1,26 @@
+{
+  "image_path": "data/raw/NEU-DET/validation/images/scratches/scratches_249.jpg",
+  "defect_type": "scratches",
+  "confidence": 1.0,
+  "severity": "medium",
+  "visual_features": [
+    "linear marks",
+    "surface texture disruption"
+  ],
+  "description": "The image is highly likely to contain scratch-type surface defects.",
+  "recommended_action": "Perform manual inspection and verify whether polishing or rework is sufficient.",
+  "top_predictions": [
+    {
+      "class_name": "scratches",
+      "probability": 1.0
+    },
+    {
+      "class_name": "crazing",
+      "probability": 0.0
+    },
+    {
+      "class_name": "pitted_surface",
+      "probability": 0.0
+    }
+  ]
+}

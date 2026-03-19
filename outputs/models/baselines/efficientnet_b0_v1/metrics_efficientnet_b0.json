@@ -1,0 +1,14 @@
+{
+  "model_name": "efficientnet_b0",
+  "image_size": 224,
+  "best_val_acc": 1.0,
+  "val_acc": 1.0,
+  "class_names": [
+    "crazing",
+    "inclusion",
+    "patches",
+    "pitted_surface",
+    "rolled-in_scale",
+    "scratches"
+  ]
+}

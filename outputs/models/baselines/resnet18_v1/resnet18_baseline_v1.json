@@ -1,0 +1,14 @@
+{
+  "baseline_name": "resnet18_baseline_v1",
+  "dataset": "NEU-DET",
+  "model_name": "resnet18",
+  "image_size": 224,
+  "batch_size": 4,
+  "epochs": 10,
+  "learning_rate": 0.001,
+  "device": "mps",
+  "validation_loss": 0.1434,
+  "validation_accuracy": 0.9667,
+  "macro_f1": 0.9666,
+  "weighted_f1": 0.9666
+}

@@ -1,0 +1,35 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Keep baseline metadata/json/txt, but ignore heavy weights
+outputs/models/baselines/*/*.pth
+outputs/models/*.pth

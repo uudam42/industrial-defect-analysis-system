@@ -1,0 +1,26 @@
+{
+  "image_path": "data/raw/NEU-DET/validation/images/patches/patches_241.jpg",
+  "defect_type": "patches",
+  "confidence": 0.9991,
+  "severity": "medium",
+  "visual_features": [
+    "patch-like regions",
+    "localized surface inconsistency"
+  ],
+  "description": "The image likely contains patch defects with visible local inconsistency on the surface.",
+  "recommended_action": "Verify patch area and assess whether the surface can be reworked.",
+  "top_predictions": [
+    {
+      "class_name": "patches",
+      "probability": 0.9991
+    },
+    {
+      "class_name": "pitted_surface",
+      "probability": 0.0009
+    },
+    {
+      "class_name": "crazing",
+      "probability": 0.0
+    }
+  ]
+}

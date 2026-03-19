@@ -1,0 +1,14 @@
+{
+  "model_name": "resnet18",
+  "image_size": 224,
+  "best_val_acc": 0.9666666666666667,
+  "val_acc": 0.9666666666666667,
+  "class_names": [
+    "crazing",
+    "inclusion",
+    "patches",
+    "pitted_surface",
+    "rolled-in_scale",
+    "scratches"
+  ]
+}

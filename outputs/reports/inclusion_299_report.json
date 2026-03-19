@@ -1,0 +1,26 @@
+{
+  "image_path": "data/raw/NEU-DET/validation/images/inclusion/inclusion_299.jpg",
+  "defect_type": "inclusion",
+  "confidence": 0.989,
+  "severity": "medium",
+  "visual_features": [
+    "embedded foreign material",
+    "localized irregular texture"
+  ],
+  "description": "The image likely contains inclusion defects caused by foreign material or internal impurities.",
+  "recommended_action": "Perform material review and inspect whether the defect affects downstream processing.",
+  "top_predictions": [
+    {
+      "class_name": "inclusion",
+      "probability": 0.989
+    },
+    {
+      "class_name": "pitted_surface",
+      "probability": 0.0048
+    },
+    {
+      "class_name": "scratches",
+      "probability": 0.0048
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "baseline_name": "efficientnet_b0_v1",
+  "dataset": "NEU-DET",
+  "model_name": "efficientnet_b0",
+  "image_size": 224,
+  "batch_size": 4,
+  "epochs": 10,
+  "learning_rate": 0.001,
+  "device": "mps",
+  "validation_loss": 0.0048,
+  "validation_accuracy": 1.0,
+  "macro_f1": 1.0,
+  "weighted_f1": 1.0
+}
