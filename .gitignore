@@ -33,3 +33,5 @@ __pycache__/
 # Keep baseline metadata/json/txt, but ignore heavy weights
 outputs/models/baselines/*/*.pth
 outputs/models/*.pth
+
+data/raw/
