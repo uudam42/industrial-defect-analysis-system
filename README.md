@@ -38,6 +38,8 @@ Validation classes:
 - scratches
 
 Dataset structure used in this project:
+> Note: The raw NEU-DET dataset is not included in this repository.  
+> Please download the dataset separately and place it under `data/raw/NEU-DET/` before running training or inference scripts.
 
 ```text
 data/raw/NEU-DET/
